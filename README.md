@@ -2,6 +2,8 @@
 
 From the touch-screen, see what is in your EEPROM or select a file and dump it into its memory.
 
+![docs/hardware.jpg]
+
 ## Hardware
 
 - Node 1 (EEPROM controller): Raspberry Pi 5
